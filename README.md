@@ -1,7 +1,11 @@
+<style>
+.nobr { white-space: nowrap }
+</style>
+
 <h1>Hi, i'm Max</h1>
-<span style="white-space: nowrap">
+<div class="nobr">
 <h3>Pronouns:</h3> <b>He/Him</b>
-</span>
+</div>
 - ⚡ Fun fact: ...
 
 <!---
