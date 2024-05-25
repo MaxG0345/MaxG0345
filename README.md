@@ -1,5 +1,7 @@
 <h1>Hi, i'm Max</h1>
+<nobr>
 <h3>Pronouns:</h3> <b>He/Him</b>
+</nobr>
 - ⚡ Fun fact: ...
 
 <!---
