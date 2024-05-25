@@ -4,7 +4,7 @@
 <body>
 <h1>Hi, i'm Max</h1>
 <ul>
-<li><h3>Pronouns:</h3> <b>He/Him</b></li>
+<li><b>Pronouns:</b> He/Him</li>
 - ⚡ Fun fact: ...
 </ul>
 <!---
