@@ -1,7 +1,7 @@
 <h1>Hi, i'm Max</h1>
-<nobr>
+<div style="white-space: nowrap">
 <h3>Pronouns:</h3> <b>He/Him</b>
-</nobr>
+</div>
 - ⚡ Fun fact: ...
 
 <!---
