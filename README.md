@@ -1,8 +1,5 @@
 <html>
 <head>
-<style>
-.nobr { white-space: nowrap }
-</style>  
 </head>
 <body>
 <h1>Hi, i'm Max</h1>
