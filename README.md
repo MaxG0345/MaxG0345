@@ -1,11 +1,11 @@
 <html>
 <head>
-  
-</head>
 <style>
 .nobr { white-space: nowrap }
-</style>
-<body><h1>Hi, i'm Max</h1>
+</style>  
+</head>
+<body>
+<h1>Hi, i'm Max</h1>
 <div class="nobr">
 <h3>Pronouns:</h3> <b>He/Him</b>
 </div>
